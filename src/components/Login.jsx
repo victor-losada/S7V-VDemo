@@ -6,7 +6,6 @@ import toast from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
 import banner from "../assets/img/banner.jpg";
-import Logo from "../assets/img/logo2.png";
 
 const Login = () => {
   const navigate = useNavigate();
