@@ -1,3 +1,9 @@
+*IMPORTANTE*
+La empresa me autorizó a mostrar la versión DEMO, permitiéndome subir el contenido visual y la lógica correspondiente a aquella parte, sin incluir los controladores. Tengo los permisos autorizados para ello.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
