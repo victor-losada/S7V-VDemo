@@ -8,7 +8,7 @@ import {
   signOut,
   onAuthStateChanged
 } from 'firebase/auth';
-import { auth } from '../sv7/src/firebase/config'; // tu archivo donde inicializas Firebase
+import { auth } from './src/firebase/config'; // tu archivo donde inicializas Firebase
 
 const AuthContext = createContext();
 
